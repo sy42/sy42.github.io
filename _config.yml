@@ -1,0 +1,6 @@
+# global settings
+title: "Test site"
+description: "Toms 1st site"
+permalink: "/"
+url: https://sy42.github.io/
+relative_permalinks: false
